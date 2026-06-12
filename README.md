@@ -13,7 +13,7 @@ The **Online Electronic Store** is a web-based application that allows users to 
 - **Customer Dashboard** (Browse & Purchase Products)  
 - **Admin Panel** (Manage Users & Orders)  
 - **Secure Authentication System**  
-- **Responsive Web Design**  
+- **Responsive Web Design.**  
 
 ---
 
